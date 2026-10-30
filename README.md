@@ -1,4 +1,4 @@
-# João Vitor França Mattar
+# João Vitor França
 
 ### Computer Science Student | Applied AI & LLMs | Cybersecurity
 
