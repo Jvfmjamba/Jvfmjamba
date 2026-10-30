@@ -1,5 +1,3 @@
-# João Vitor França
-
 ### Computer Science Student | Applied AI & LLMs | Cybersecurity
 
 I'm a Computer Science student at the Federal University of São João del-Rei (UFSJ), interested in building practical software solutions at the intersection of Artificial Intelligence, Cybersecurity, and Software Engineering.
