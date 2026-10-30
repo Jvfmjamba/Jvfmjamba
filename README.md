@@ -1,16 +1,37 @@
-## Hi there 👋
+# João Vitor França Mattar
 
-<!--
-**Jvfmjamba/Jvfmjamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Applied AI & LLMs | Cybersecurity
 
-Here are some ideas to get you started:
+I'm a Computer Science student at the Federal University of São João del-Rei (UFSJ), interested in building practical software solutions at the intersection of Artificial Intelligence, Cybersecurity, and Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work and learning focus on integrating LLMs into applications, automating tasks, analyzing system security, and developing efficient software using Python, Java, C, and Swift.
+
+### Areas of Interest
+
+- **Artificial Intelligence:** LLM integration, AI APIs, prompt engineering, and automation.
+- **Cybersecurity:** Web vulnerability analysis, application debugging, network security, and system testing.
+- **Software Engineering:** Application development, REST APIs, databases, and software architecture.
+- **Infrastructure:** Linux, VPS monitoring, SSH, networking, and client-server systems.
+
+### Technologies & Tools
+
+**Languages:** Python · Java · C · Swift · Luau  
+**AI:** LLM APIs · Google Gemini · Prompt Engineering  
+**Backend & Data:** Django · REST APIs · PostgreSQL · Supabase  
+**Infrastructure & Security:** Linux · SSH · TCP/IP · Wireshark  
+**Tools:** Git · GitHub · Xcode · Blender
+
+### Education
+
+**B.Sc. in Computer Science**  
+Federal University of São João del-Rei (UFSJ), Brazil
+
+### Languages
+
+- Portuguese — Native
+- English — Advanced
+- Spanish — Beginner
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/joão-vitor-frança/) · [GitHub](https://github.com/Jvfmjamba)
