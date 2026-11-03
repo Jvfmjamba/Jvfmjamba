@@ -14,7 +14,7 @@ My work and learning focus on integrating LLMs into applications, automating tas
 ### Technologies & Tools
 
 **Languages:** Python · Java · C · Swift · Luau  
-**AI:** LLM APIs · Google Gemini · Prompt Engineering  
+**AI:** LLM APIs · Prompt Engineering  
 **Backend & Data:** Django · REST APIs · PostgreSQL · Supabase  
 **Infrastructure & Security:** Linux · SSH · TCP/IP · Wireshark  
 **Tools:** Git · GitHub · Xcode · Blender
